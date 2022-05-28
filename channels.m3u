@@ -57,6 +57,13 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616435151_vasanth.png" group-title="Tamil Entertainment",Vasanth TV
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD
+https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",K TV HD
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
+https://d3t34m8y8rh0vb.cloudfront.net/preview/sunlife/master.m3u8?hdnts
+
 
 
 
@@ -360,3 +367,5 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil News",News80
 http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil News",Sun News
+https://d3t34m8y8rh0vb.cloudfront.net/preview/sunnews/master.m3u8?hdnts
