@@ -59,32 +59,41 @@ http://rv.therevenge.co:80/live/692653432434504/692653432434504/83946.m3u8?check
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Tamil International Entertainment",Santhora Short Flim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Tamil Int Entertainment",Santhora Short Flim
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Vasantham_logo.jpg" group-title="Tamil International Entertainment",Vasantham TV Singapore
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Vasantham_logo.jpg" group-title="Tamil Int Entertainment",Vasantham TV Singapore
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
-#EXTINF:-1 group-title="Tamil International Entertainment" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 TAMIL
+#EXTINF:-1 group-title="Tamil Int Entertainment" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/CapitalTVlogo.gif" group-title="Tamil International Entertainment",Capital Tv
+#EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/CapitalTVlogo.gif" group-title="Tamil Int Entertainment",Capital Tv
 http://89.187.162.89/Capital_TV-LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil International Entertainment",EET TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil Int Entertainment",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil International Entertainment",Adithya High Quality
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil Int Entertainment",Adithya High Quality
 http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/60898152d1a6f/60898152d1a6f.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil International Entertainment",Adithya Low Quality
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil Int Entertainment",Adithya Low Quality
 http://uk1.zecast.com:1935/star-live/adithya/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil International Entertainment",Adithya Malaysia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil Int Entertainment",Adithya Malaysia
 http://pal.ukodtv.xyz/live/3238545630/7067527301/39.m3u8?token=QhpQUUYMEAlABFoHCAYLB1VWVwRSDwNVAldcUggHVwlcCwxVA1MKClEQFUZDQUFVBVpsCwUbDAVdTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbC0ZUDR0SXEBMVUcKU189VlwSWVZWEl5ZRg4NFRRZCj4BVlUAX1QbAhoBF0gQWhFCG15eQF9cSBVRCxVLV0IBQ19dTQ1dHBtbV0VbEEBKQAgbLX4XHxIBT0cHD0pfWQpDXxFVUkQIGxQaWUY7QFYRRksBUVhWQkYNEVJDFRRbBRk6UFcPX1VaTFFfWxcQCUADG0gSWFxeDUNcED5JX1JGWwtGVA1M
-
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png" group-title="Tamil Int Entertainment",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/playstore/images/814cf36cf2dca5a19a57b32c771e611e" group-title="Tamil Int Entertainment",IBC TAMIL Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil Int Entertainment",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Int Entertainment",BritanIndia TV
+http://nextgeninfotech.ddns.net:8080/britainindia/britainindia.m3u8
+#EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" group-title="Tamil Int Entertainment",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 
 
 
@@ -182,7 +191,7 @@ http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=rk
 http://212.224.98.196:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="Tamil Music",Jaya Max
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=rk
-#EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif" group-title="Tamil International Music",Capital Music
+#EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif" group-title="Tamil Music",Capital Music
 http://89.187.162.89/Capital_Music/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local Entertainment",Vaigai TV
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
@@ -196,7 +205,7 @@ http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png" group-title="Tamil Local Music",TDCTO (Apple Music)
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
-#EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" group-title="Tamil International Music",Santhora TV
+#EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" group-title="Tamil Music",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 
 
