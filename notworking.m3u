@@ -39,6 +39,14 @@ http://stream4.livebox.co.in/tamilvisionhls/live.m3u8
 http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil Entertainment",Tamil TV Plus
 http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-movies-white.png" group-title="Tamil Entertainment",Jaya Movies
+http://137.59.85.66/Content/jayamovies/Live/Channel(JAYAMOVIES)/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhHYAJnlfpmETcagytcrimbj_hMFUH1VGIKiJVuRw=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil Entertainment",Raj TV
+http://varun114.in1.bitmana.io/Varun114/live.php?c=Raj_TV&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/235?cb=20191231195635" group-title="Tamil Movies",Raj Digital Plus
+http://varun114.in1.bitmana.io/Varun114/live.php?c=Raj_Digital_Plus&q=800&e=.m3u8
+
+
 
 
 
