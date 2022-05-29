@@ -95,8 +95,6 @@ http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzbvq3D9/Screenshot-2021-04-28-14-34-26-620-org-videolan-vlc-1619601709044.png" group-title="Tamil Int Entertainment",Jay tv
-http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 
 
 
@@ -364,8 +362,6 @@ https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in_480p/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Music",SR Music
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Music",NTV Music
-http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="" group-title="Tamil Music",Danmusic HD
 https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1622284783_Nvision.png" group-title="Tamil Music", Nvision
