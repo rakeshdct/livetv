@@ -3,6 +3,8 @@
 http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD 2
 http://rv.therevenge.co:80/live/692653432434504/692653432434504/83947.m3u8?checkedby
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD
+http://103.139.171.5:5001/jiotvplus/live.php?c=Star_Vijay&q=250&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 1
 http://rv.therevenge.co:80/live/692653432434504/692653432434504/83951.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD 2
@@ -94,6 +96,13 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 http://nextgeninfotech.ddns.net:8080/britainindia/britainindia.m3u8
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" group-title="Tamil Int Entertainment",Santhora TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tamilvision.tv/Images/logo.png" group-title="Tamil Int Entertainment",TAMIL VISION TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzbvq3D9/Screenshot-2021-04-28-14-34-26-620-org-videolan-vlc-1619601709044.png" group-title="Tamil Int Entertainment",Jay tv
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 
 
 
@@ -177,6 +186,8 @@ http://51.79.158.179:1935/ntv/live/chunklist_w1850652856.m3u8
 http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",JM TV
 http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local Entertainment",Vaigai TV
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 
 
 
@@ -193,20 +204,20 @@ http://212.224.98.196:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=rk
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif" group-title="Tamil Music",Capital Music
 http://89.187.162.89/Capital_Music/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local Entertainment",Vaigai TV
-http://account9.livebox.co.in/vaigaitvhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Tamil Local Music",Rasi Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Tamil Music",Rasi Music
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85D7qZLW/Screenshot-2021-04-30-13-40-16-659-com-android-chrome-1619770271911.png" group-title="Tamil Music",Max TV
 http://139.99.41.37:1935/dream/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2K9KHN4/Screenshot-2021-05-29-19-23-44-733-org-videolan-vlc-1622296546125.png" group-title="Tamil Local Music",Spice TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2K9KHN4/Screenshot-2021-05-29-19-23-44-733-org-videolan-vlc-1622296546125.png" group-title="Tamil Music",Spice TV
 http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLbc03j/Screenshot-2021-05-26-08-06-06-167-com-singamcloud-cloudtamil-1622185986915.png" group-title="Tamil Local Music",Sachin Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLbc03j/Screenshot-2021-05-26-08-06-06-167-com-singamcloud-cloudtamil-1622185986915.png" group-title="Tamil  Music",Sachin Music
 http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png" group-title="Tamil Local Music",TDCTO (Apple Music)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png" group-title="Tamil  Music",TDCTO (Apple Music)
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" group-title="Tamil Music",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Music",NTV Music
+http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 
 
 
