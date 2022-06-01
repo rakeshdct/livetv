@@ -319,6 +319,12 @@ http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Tamil Local Entertainment",Rasi TV
 http://singamcloud.in:80/rasinetworks/rasitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Tamil Local Entertainment",Rasi Tamil
+http://singamcloud.in:80/rasinetworks/rasitamil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Tamil Local Entertainment",Rasi Movies
+http://singamcloud.in:80/rasinetworks/rasimovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Tamil Local Entertainment",Rasi Classic
+http://singamcloud.in/rasinetworks/rasiclassic/playlist.m3u8
 
 
 
