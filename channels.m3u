@@ -79,6 +79,14 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png" group-title="Tamil Int Entertainment",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/playstore/images/814cf36cf2dca5a19a57b32c771e611e" group-title="Tamil Int Entertainment",IBC TAMIL Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil Int Entertainment",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzbvq3D9/Screenshot-2021-04-28-14-34-26-620-org-videolan-vlc-1619601709044.png" group-title="Tamil Int Entertainment",Jay tv
 
 
 
@@ -325,6 +333,16 @@ http://singamcloud.in:80/rasinetworks/rasitamil/playlist.m3u8
 http://singamcloud.in:80/rasinetworks/rasimovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Tamil Local Entertainment",Rasi Classic
 http://singamcloud.in/rasinetworks/rasiclassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-dheeran-tv-9411.jpg" group-title="Tamil Entertainment",Dheeran TV
+https://5c75277727cd1.streamlock.net/dheerantv/dheerantv/chunklist_w1726315551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",JM TV
+http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnZG7h7n-6uI237u8FwWuGDsqmqknI5F9uJ_ttk_dJiFMQOM8HVWS50npPKUz2tQpg50&usqp=CAU" group-title="Tamil Local Entertainment",aasai tv
+http://live.singamcloud.in:1935/aasaitv/aasaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sr5-6eljq5LvnXBQt1maEBiDI0Batwfo1PSMJ7GnmM-KxzOGRvER-5CF-wvuDZrIGdMV=s180-rw" group-title="Tamil Local Entertainment",NTv Trichy
+http://185.105.4.244:1935/live/ntv/playlist.m3u8
 
 
 
