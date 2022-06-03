@@ -127,6 +127,8 @@ http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzbvq3D9/Screenshot-2021-04-28-14-34-26-620-org-videolan-vlc-1619601709044.png" group-title="Tamil Int Entertainment",Jay tv
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 
 
 
@@ -204,9 +206,16 @@ http://nextgeninfotech.ddns.net:8080/utv/utv.m3u8
 http://singamcloud.in/rasinetwork/cookings/index.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/trichy/l5/0431px431.x431.160220111532.b9l5/catalogue/n-tv-ponnagar-trichy-entertainment-tv-channels-lca1bk7m53-250.jpg" group-title="Tamil Local Entertainment",N TV
 http://51.79.158.179:1935/ntv/live/chunklist_w1850652856.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local Entertainment",Vaigai TV
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",JM TV
+http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnZG7h7n-6uI237u8FwWuGDsqmqknI5F9uJ_ttk_dJiFMQOM8HVWS50npPKUz2tQpg50&usqp=CAU" group-title="Tamil Local Entertainment",aasai tv
+http://live.singamcloud.in:1935/aasaitv/aasaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sr5-6eljq5LvnXBQt1maEBiDI0Batwfo1PSMJ7GnmM-KxzOGRvER-5CF-wvuDZrIGdMV=s180-rw" group-title="Tamil Local Entertainment",NTv Trichy
+http://185.105.4.244:1935/live/ntv/playlist.m3u8
 
 
 
