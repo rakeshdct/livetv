@@ -194,8 +194,6 @@ http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
 http://198.144.149.82:8080/NOTV/PANTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/kanyakumari/a6/9999p4653.4653.200111131131.y6a6/catalogue/hai-tv-thuckalay-kanyakumari-tv-dealers-6sc8kvaqh1-250.jpg" group-title="Tamil Local Entertainment",Hai TV
 http://stream.singamcloud.in:1935/haitv/haitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Durais TV
-http://media.7starcloud.com:1935/harimedia/duraistv/chunklist_w1160745097.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",priya tv
 http://live.singamcloud.in:1935/priyatv/priyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local Entertainment",Qmax TV Ramnad
