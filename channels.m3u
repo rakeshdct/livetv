@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="Sun TV HD" group-title="Tamil Entertainment",Sun TV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",K TV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
@@ -102,20 +102,18 @@ https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil Int Entertainment",IBC Pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.tamilvision.tv/Images/logo.png" group-title="Tamil Int Entertainment",TAMIL VISION TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSq7Fkxno8rsHVctVXDXdf6Ur0TLFMj8GyGvqjdI-bQNq-EMcpx2CRET7Q-Thhp9i0Pps&usqp=CAU" group-title="Tamil Int Entertainment",TAMIL VISION TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 group-title="Tamil Int Entertainment" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png",ADHAVAN HD TV
+#EXTINF:-1 group-title="Tamil Int Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTpmnmog_MUExZTN1uE-J8a1rJSZeZEIcRstI5H=s900-c-k-c0x00ffffff-no-rj",ADHAVAN HD TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png" group-title="Tamil Int Entertainment",3 Tamil
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png" group-title="Tamil Int Entertainment",3 TAMIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 
 
@@ -463,14 +461,14 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Captain_News&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movies",Star World HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwn3PHWPVbqaONdnyn0CtmiEQ5vM6B84hFufTpQlwblELmHWYqy41LCdmkyiGOd-IvIg&usqp=CAU" group-title="English Movies",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/dutch/discoveryworld.png" group-title="English Infotainment",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_698/LANDSCAPE_43/yQm3zndr.png" group-title="English Infotainment",DISCOVERY WORLD HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48011&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48009&e=.m3u8
@@ -486,7 +484,7 @@ http://ranapk-star7.de1.bitmana.io/playx.php?id=48017&e=.m3u8
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48019&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="English Infotainment",TLC WORLD HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=47876&e=.m3u8
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com" group-title="English Infotainment",ID FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",ID FHD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=51277&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
