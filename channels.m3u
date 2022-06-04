@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="1503" group-title="Tamil Entertainment",Sun TV
 https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",K TV HD
+#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
 https://d3t34m8y8rh0vb.cloudfront.net/preview/sunlife/master.m3u8?hdnts
@@ -15,7 +15,7 @@ http://ranapk-star7.de1.bitmana.io/playx.php?id=48006&q=250&e=.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48008&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil
 http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil Entertainment",Jaya TV HD
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
@@ -467,6 +467,12 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png" group-title="English Movies",MOVIES NOW HD
+http://ranapk-star7.de1.bitmana.io/playx.php?id=48160&e=.m3u8
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="English Movies",MN PLUS HD
+http://ranapk-star7.de1.bitmana.io/playx.php?id=48163&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movies",HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 
@@ -490,6 +496,8 @@ http://ranapk-star7.de1.bitmana.io/playx.php?id=47876&e=.m3u8
 http://ranapk-star7.de1.bitmana.io/playx.php?id=51277&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/foodfodd.png" group-title="English Infotainment",FOOD FOOD HD
+http://ranapk-star7.de1.bitmana.io/playx.php?id=48242&e=.m3u8
 
 
 
