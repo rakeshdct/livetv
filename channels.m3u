@@ -119,15 +119,15 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 
 
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201911/dtamil-logo.jpg" group-title="Tamil Infotainment",Discovery Tamil HD
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201911/dtamil-logo.jpg" group-title="Tamil Infotainment",Discovery HD World India
 http://137.59.85.66/Content/discoverytamil/Live/Channel(DISCOVERYTAMIL)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil Infotainment",Sony BBC Earth HD Tamil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil Infotainment",SONY BBC EARTH HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil Infotainment",History TV18 Tamil HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil Infotainment",HISTORY TV 18 HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=History_18_Tamil&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Tamil Infotainment",Animal planet Tamil HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Tamil Infotainment",Animal Planet HD World India
 http://103.139.171.5:5001/jiotvplus/live.php?c=Animal_Planet_HD_Tamil&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Travel_XP_Tamil.jpeg/revision/latest/scale-to-width-down/200?cb=20201008180458" group-title="Tamil Infotainment",Travel XP Tamil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Travel_XP_Tamil.jpeg/revision/latest/scale-to-width-down/200?cb=20201008180458" group-title="Tamil Infotainment",Travel XP
 http://103.139.171.5:5001/jiotvplus/live.php?c=Travel_XP_Tamil&q=1200&e=.m3u8
 
 
