@@ -1,11 +1,11 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="1503" group-title="Tamil Entertainment",Sun TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="1503" group-title="Tamil Entertainment",Sun TV
 https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",K TV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
 https://d3t34m8y8rh0vb.cloudfront.net/preview/sunlife/master.m3u8?hdnts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Vijay HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Vijay TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -470,13 +470,13 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_698/LANDSCAPE_43/yQm3zndr.png" group-title="English Infotainment",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_698/LANDSCAPE_43/yQm3zndr.png" group-title="English Infotainment",Discovery HD World India
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48011&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic India
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48009&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment",National Geographic Wild HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment",National Geographic Wild Asia
 http://ranapk-star7.de1.bitmana.io/playx.php?id=47873&e=.m3u8
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="English Infotainment",ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="English Infotainment",Animal Planet HD World India
 http://ranapk-star7.de1.bitmana.io/playx.php?id=47868&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png" group-title="English Infotainment",HISTORY TV 18 HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48018&e=.m3u8
