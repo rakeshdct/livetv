@@ -455,9 +455,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=News_J&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Kalaignar_Seithigal_&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-VSCJ4AxR_zQ/UqcHATGGvDI/AAAAAAAACYA/ozcNJqVAuog/s1600/Captain-News-Tamil-Logo_(1)3_copy.png" group-title="Tamil News",Captain News
 http://103.139.171.5:5001/jiotvplus/live.php?c=Captain_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="Tamil News",Asianet News Tamil
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-#EXTINF:-1 tvg-id="SathiyamTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/52fYpqa.png" group-title="Tamil News",Sathiyam TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52fYpqa.png" group-title="Tamil News",Sathiyam TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 
 
