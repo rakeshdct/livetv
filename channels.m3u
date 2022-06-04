@@ -484,6 +484,10 @@ http://ranapk-star7.de1.bitmana.io/playx.php?id=48018&e=.m3u8
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48017&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/russian/foxlife.png" group-title="English Infotainment",FOX LIFE HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48019&e=.m3u8
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="English Infotainment",TLC WORLD HD
+http://ranapk-star7.de1.bitmana.io/playx.php?id=47876&e=.m3u8
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com" group-title="English Infotainment",ID FHD
+http://ranapk-star7.de1.bitmana.io/playx.php?id=51277&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
