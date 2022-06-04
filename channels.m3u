@@ -1,11 +1,11 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="Sun TV HD" group-title="Tamil Entertainment",Sun TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="1503" group-title="Tamil Entertainment",Sun TV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",K TV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
 https://d3t34m8y8rh0vb.cloudfront.net/preview/sunlife/master.m3u8?hdnts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Star Vijay HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Vijay HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -455,6 +455,10 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=News_J&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Kalaignar_Seithigal_&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-VSCJ4AxR_zQ/UqcHATGGvDI/AAAAAAAACYA/ozcNJqVAuog/s1600/Captain-News-Tamil-Logo_(1)3_copy.png" group-title="Tamil News",Captain News
 http://103.139.171.5:5001/jiotvplus/live.php?c=Captain_News&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="Tamil News",Asianet News Tamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 tvg-id="SathiyamTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/52fYpqa.png" group-title="Tamil News",Sathiyam TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 
 
 
