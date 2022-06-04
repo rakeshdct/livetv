@@ -360,8 +360,11 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png" group-title="English Infotainment",Adventure Sports
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="English Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Tamil Local Entertainment",Rasi TV
 http://singamcloud.in:80/rasinetworks/rasitv/playlist.m3u8
+
 
 
 

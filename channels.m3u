@@ -473,11 +473,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/dutch/discoveryworld.png" group-title="English Infotainment",DISCOVERY WORLD HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48011&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic HD
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48009&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment",National Geographic Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://ranapk-star7.de1.bitmana.io/playx.php?id=47873&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png" group-title="English Infotainment",HISTORY TV 18 HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48018&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="English Infotainment",SONY BBC EARTH HD
@@ -499,8 +497,6 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_HD&q=1200&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ten2_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135" group-title="English Sports",Sony Ten 3 HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ten3_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="English Sports",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" group-title="English Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 
