@@ -111,6 +111,8 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png" group-title="Tamil Int Entertainment",3 Tamil
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Int Entertainment",Aus Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
 
 
@@ -364,6 +366,10 @@ http://singamcloud.in/rasinetworks/rasiclassic/playlist.m3u8
 https://5c75277727cd1.streamlock.net/dheerantv/dheerantv/chunklist_w1726315551.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Durais TV
 http://media.7starcloud.com:1935/harimedia/duraistv/chunklist_w1160745097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Pop TV
+http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8
 
 
 
@@ -460,6 +466,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD
 http://ranapk-june.in1.bitmana.io/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movies",Comedy Central HD
+http://ranapk-june.in1.bitmana.io/live.php?c=Comedy_Central_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwn3PHWPVbqaONdnyn0CtmiEQ5vM6B84hFufTpQlwblELmHWYqy41LCdmkyiGOd-IvIg&usqp=CAU" group-title="English Movies",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
@@ -475,21 +483,25 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_698/LANDSCAPE_43/yQm3zndr.png" group-title="English Infotainment",Discovery HD World India
-http://ranapk-star7.de1.bitmana.io/playx.php?id=48011&e=.m3u8
+http://ranapk-june.in1.bitmana.io/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic India
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48009&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment",National Geographic Wild Asia
 http://ranapk-star7.de1.bitmana.io/playx.php?id=47873&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="English Infotainment",Animal Planet HD World India
-http://ranapk-star7.de1.bitmana.io/playx.php?id=47868&e=.m3u8
+http://ranapk-june.in1.bitmana.io/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png" group-title="English Infotainment",HISTORY TV 18 HD
-http://ranapk-star7.de1.bitmana.io/playx.php?id=48018&e=.m3u8
+http://ranapk-june.in1.bitmana.io/live.php?c=History_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="English Infotainment",SONY BBC EARTH HD
-http://ranapk-star7.de1.bitmana.io/playx.php?id=48017&e=.m3u8
+http://ranapk-june.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/russian/foxlife.png" group-title="English Infotainment",FOX LIFE HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48019&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="English Infotainment",TLC WORLD HD
-http://ranapk-star7.de1.bitmana.io/playx.php?id=47876&e=.m3u8
+http://ranapk-june.in1.bitmana.io/live.php?c=TLC_English&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="English Infotainment",Discovery Turbo
+http://ranapk-june.in1.bitmana.io/live.php?c=Discovery_Turbo&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="English Infotainment",Discovery Science
+http://ranapk-june.in1.bitmana.io/live.php?c=Discovery_Science&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",Investigation Discovery India
 http://ranapk-star7.de1.bitmana.io/playx.php?id=51277&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
@@ -508,3 +520,5 @@ http://ranapk-june.in1.bitmana.io/live.php?c=Ten2_HD&q=1200&e=.m3u8
 http://ranapk-june.in1.bitmana.io/live.php?c=Ten3_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" group-title="English Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieC0wxaDUgNGQwXP-a3sEkUBOIaMxDyIxVau1DLPBaw3ztgYN22-CjBqechcsPmRehxc&usqp=CAU" group-title="English Sports",Euro Sport
+http://ranapk-june.in1.bitmana.io/live.php?c=Dsports_HD&q=1200&e=.m3u8
