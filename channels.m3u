@@ -1,13 +1,15 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="1503" group-title="Tamil Entertainment",Sun TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/36442
+https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/267819
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/7f7f01cf9d579e09ecfbe313513df215.jpg" group-title="Tamil Entertainment",Adithya
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157469
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Vijay TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_TV_logo.svg/revision/latest/scale-to-width-down/200?cb=20210603224707" group-title="Tamil Entertainment",Vijay TV
+http://ranapk-star7.de1.bitmana.io/playx.php?id=48006&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Vijay TV Int
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/19744
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil Entertainment",Zee Tamil HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45505
@@ -536,9 +538,9 @@ http://ranapk-june.in1.bitmana.io/live.php?c=Ten3_HD&q=1200&e=.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3630
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="English Sports",Star Sports 2
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3631
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="English Sports",Star Sports 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepWJBRH1WVHksUog673jQwpwy-zJPLVJy-wbWKAxvKoO-n1tH4DVtMTwR4M0CRnG2l0Q&usqp=CAU" group-title="English Sports",Star Sports Select 1
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/62584
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="English Sports",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest/scale-to-width-down/220?cb=20170728104438" group-title="English Sports",Star Sports Select 2
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/16619
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="English Sports",Sky Sports F1 uk
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265
