@@ -453,12 +453,16 @@ http://ranapk-june2.in1.bitmana.io/livez.php?c=Sony_Yay_Tamil&q=800&e=.m3u8
 http://ranapk-june2.in1.bitmana.io/livez.php?c=sonic_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DKids2021.png/revision/latest/scale-to-width-down/215?cb=20210413182436" group-title="Tamil Kids",Discovery Kids Tamil
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Discovery_Kids_Tamil&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest/scale-to-width-down/250?cb=20190122082451" group-title="Tamil Kids",Chutti TV
+http://46.105.112.116/?watch=R-EX/KIDS_Chutti_TV_HD-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|user-agent=REDLINECLIENT
 
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil News",Sun News
 https://d3t34m8y8rh0vb.cloudfront.net/preview/sunnews/master.m3u8?hdnts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil News",Sun News1
+http://46.105.112.116/?watch=R-EX/TAMIL_SUN_NEWS_TAMIL_-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQOBIUE52Dou16m-d6q3C4Z-pmYPei9qgdyZfG2=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil News",News 18 Tamilnadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" group-title="Tamil News",Puthiya  Thalaimurai
@@ -483,6 +487,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Raj_News_24x7&q=800&e=.m3u8e
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/08672750ca676a5ccb2cc50e5400bf8b.png" group-title="Tamil News",Polimer News
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/163279
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/paperboy-papers/paperboy-paper-image/210920/46ml1600686631427-abc.jpg" group-title="Tamil News",Malai Murasu Seithikal
+http://46.105.112.116/?watch=R-EX/MALAI_MURASU_SEITHIKAL-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|User-Agent=REDLINECLIENT
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Tamil Entertainment",Win News TV
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Win_TV&q=800&e=.m3u8
 
@@ -501,6 +507,8 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Comedy_Central_HD&q=800&e=.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png" group-title="English Movies",Zee Café HD
 http://ranapkz5.1.mywebsites.link/z5ranapk.php?c=0-9-zeecafehd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="English Movies",Colors Infinity HD
+http://46.105.112.116/?watch=R-EX/ENGLISH_COLORS_INFINITY_HD-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwn3PHWPVbqaONdnyn0CtmiEQ5vM6B84hFufTpQlwblELmHWYqy41LCdmkyiGOd-IvIg&usqp=CAU" group-title="English Movies",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
@@ -553,8 +561,12 @@ http://ranapk-june2.in1.bitmana.io/livez.php?c=TLC_English&q=800&e=.m3u8
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Discovery_Turbo&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",Investigation Discovery India
 http://ranapk-star7.de1.bitmana.io/playx.php?id=51277&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://scontent-maa2-1.xx.fbcdn.net/v/t1.6435-1/67214998_387721075199536_1492055837445718016_n.jpg?stp=dst-jpg_p148x148&_nc_cat=109&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=SR7oq-zBSpsAX97NNlx&_nc_ht=scontent-maa2-1.xx&oh=00_AT9omVWZg6AhuqEqYDKMKFmAYUF6nubaEFKXIjCElTjmIQ&oe=62D2B1F8" group-title="English Infotainment",Foodxp
+http://46.105.112.116/?watch=NL/foodxp-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|User-Agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/dish-tv-cooking-active-tv-channel-logo-100x100.jpg" group-title="English Infotainment",Cooking Active
+http://46.105.112.116/?watch=R-EX/COOKING_ACTIVE-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|User-Agent=REDLINECLIENT
 
 
 
