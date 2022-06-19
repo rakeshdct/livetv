@@ -492,9 +492,9 @@ http://ranapk-june2.in1.bitmana.io/livez.php?c=Raj_News_24x7&q=800&e=.m3u8e
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG69759.png" group-title="Tamil News",MaalaiMurasu TV
 https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_360p/index.m3u8
-#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Tamil Entertainment",Win News TV
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Tamil News",Win News TV
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Win_TV&q=800&e=.m3u8
-#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG20816.png" group-title="Tamil Entertainment",ZEE TAMIL NEWS
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG20816.png" group-title="Tamil News",ZEE TAMIL NEWS
 https://d18og6ul8t0hlc.cloudfront.net/out/v1/4489e201207b4e4fbb8d9d9387533001/index_4.m3u8
 
 
