@@ -552,10 +552,10 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2301
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2302
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a45789c7616a76bbf20dad9baf7e5282.png" group-title="English Infotainment",Discovery World
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/755
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic India
-http://ranapk-star7.de1.bitmana.io/playx.php?id=48009&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment",National Geographic Wild Asia
-http://ranapk-star7.de1.bitmana.io/playx.php?id=47873&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="English Infotainment",National Geographic
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/749
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment",National Geographic Wild
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/6503
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="English Infotainment",Animal Planet HD World India
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Animal_Planet_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png" group-title="English Infotainment",HISTORY TV 18 HD
@@ -567,7 +567,7 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/76866
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b5c7caa8a9d19fb84a096f1664f37056.png" group-title="English Infotainment",FYI
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/30897
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="English Infotainment",TLC WORLD HD
-http://ranapk-june2.in1.bitmana.io/livez.php?c=TLC_English&q=800&e=.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1067
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="English Infotainment",Discovery Turbo
 http://ranapk-june2.in1.bitmana.io/livez.php?c=Discovery_Turbo&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",Investigation Discovery India
