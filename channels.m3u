@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="1503" group-title="Tamil Entertainment",Sun TV
 https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" tvg-id="1503" group-title="Tamil Entertainment",Sun TV1
-http://103.179.246.243:8000/play/a03y/index.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/76969
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD1
-http://103.179.246.243:8000/play/a040/index.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/36442
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/267819
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life1
@@ -398,8 +398,6 @@ http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GsdnjLvbrgTK6Ywcor-5zwhaChJHdESnvlvxtbikWk8OSFLAQtmrV3JB__RqT7ZFBQ" group-title="Tamil Music",Sun Music HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157496
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GsdnjLvbrgTK6Ywcor-5zwhaChJHdESnvlvxtbikWk8OSFLAQtmrV3JB__RqT7ZFBQ" group-title="Tamil Music",Sun Music HD1
-http://103.179.246.243:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil Music",7s Music
@@ -587,10 +585,7 @@ http://ranapk-star7.de1.bitmana.io/playx.php?id=51277&e=.m3u8
 http://103.179.246.243:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://scontent-maa2-1.xx.fbcdn.net/v/t1.6435-1/67214998_387721075199536_1492055837445718016_n.jpg?stp=dst-jpg_p148x148&_nc_cat=109&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=SR7oq-zBSpsAX97NNlx&_nc_ht=scontent-maa2-1.xx&oh=00_AT9omVWZg6AhuqEqYDKMKFmAYUF6nubaEFKXIjCElTjmIQ&oe=62D2B1F8" group-title="English Infotainment",Foodxp
-http://46.105.112.116/?watch=NL/foodxp-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|User-Agent=REDLINECLIENT
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/dish-tv-cooking-active-tv-channel-logo-100x100.jpg" group-title="English Infotainment",Cooking Active
-http://46.105.112.116/?watch=R-EX/COOKING_ACTIVE-in&token=token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057|User-Agent=REDLINECLIENT
+
 
 
 
