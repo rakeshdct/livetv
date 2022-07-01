@@ -175,6 +175,8 @@ http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil Local Entertainment",Abinaya HD
 http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viRVMKh.png" group-title="Tamil Local Entertainment",Sangamam TV
@@ -231,14 +233,10 @@ http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0YtWc3Z/Screenshot-2021-04-28-22-09-18-913-org-videolan-vlc-1619628396155.png" group-title="Tamil Local Entertainment",D Jeyam tv
 http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",NB TV
-http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Pan tv
 http://198.144.149.82:8080/NOTV/PANTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/kanyakumari/a6/9999p4653.4653.200111131131.y6a6/catalogue/hai-tv-thuckalay-kanyakumari-tv-dealers-6sc8kvaqh1-250.jpg" group-title="Tamil Local Entertainment",Hai TV
 http://stream.singamcloud.in:1935/haitv/haitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",priya tv
-http://live.singamcloud.in:1935/priyatv/priyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5TustIHU0vxCAra4G3N40F05j0DzZKdbO9y4pjrI4TMndDtue6_XsWCiici2L_pvZ0A=s180-rw" group-title="Tamil Local Entertainment",Qmax TV Ramnad
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/svGc_Z5HrkV891tSkXNRPKa0Y0JHBt6GqluN9AuHdOtv9PgryBuZZWxC7sK2CYmrFSo=s180-rw" group-title="Tamil Local Entertainment",Anandam Utv Madurai
@@ -249,14 +247,14 @@ http://singamcloud.in/rasinetwork/cookings/index.m3u8
 http://51.79.158.179:1935/ntv/live/chunklist_w1850652856.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rYqGqen95imj8GiXp8A9hDUL7UjSpI2s0jPk_hlfeRm-NX0QHsyAXVdUDWTZElvEb3E=s180-rw" group-title="Tamil Local Entertainment",Vaigai TV
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anu TV
-http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",JM TV
-http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnZG7h7n-6uI237u8FwWuGDsqmqknI5F9uJ_ttk_dJiFMQOM8HVWS50npPKUz2tQpg50&usqp=CAU" group-title="Tamil Local Entertainment",aasai tv
 http://live.singamcloud.in:1935/aasaitv/aasaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sr5-6eljq5LvnXBQt1maEBiDI0Batwfo1PSMJ7GnmM-KxzOGRvER-5CF-wvuDZrIGdMV=s180-rw" group-title="Tamil Local Entertainment",NTv Trichy
 http://185.105.4.244:1935/live/ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pop-TV-Logo.svg/1200px-Pop-TV-Logo.svg.png" group-title="Tamil Local Entertainment",Pop TV
+http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",NB TV
+http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
 
 
 
