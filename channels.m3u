@@ -597,7 +597,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="English Sports",Sony Six HD
 http://ranapk-june3.in1.bitmana.io/livezx.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="English Sports",Sony Ten 1 HD
@@ -626,3 +625,68 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265
 http://ranapk-june3.in1.bitmana.io/livezx.php?c=Dsports_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="English Sports",DD Sports
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/56153
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox 501 HD 
+http://ranapk.cf/cdn/play-369/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Astro Cricket
+http://ranapk.cf/cdn/play-370/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Cricket
+http://ranapk.cf/cdn/play-368/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Cricket  
+http://ranapk.cf/cdn/play-65/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Willow HD 
+http://ranapk.cf/cdn/play-346/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Premier League 
+http://ranapk.cf/cdn/play-130/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sport Football 
+http://ranapk.cf/cdn/play-35/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super EPL 
+http://ranapk.cf/cdn/play-414/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 1 
+http://ranapk.cf/cdn/play-31/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 2
+http://ranapk.cf/cdn/play-32/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 3
+http://ranapk.cf/cdn/play-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport ESPN 
+http://ranapk.cf/cdn/play-34/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein 1 
+http://ranapk.cf/cdn/play-61/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein 2 
+http://ranapk.cf/cdn/play-90/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein 3
+http://ranapk.cf/cdn/play-46/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sport Main Event 
+http://ranapk.cf/cdn/play-38/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Premier Sports 1
+http://ranapk.cf/cdn/play-451/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ASTRO 1
+http://ranapk.cf/cdn/play-123/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ASTRO 2 
+http://ranapk.cf/cdn/play-124/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ASTRO 3 
+http://ranapk.cf/cdn/play-125/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ASTRO 4  
+http://ranapk.cf/cdn/play-126/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ASTRO 5 
+http://ranapk.cf/cdn/play-43/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox 1 
+http://ranapk.cf/cdn/play-39/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox 2
+http://ranapk.cf/cdn/play-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Euro 1
+http://ranapk.cf/cdn/play-41/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Euro 2 
+http://ranapk.cf/cdn/play-42/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 1
+http://ranapk.cf/cdn/play-111/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 2
+http://ranapk.cf/cdn/play-112/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 3
+http://ranapk.cf/cdn/play-113/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 4 
+http://ranapk.cf/cdn/play-114/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 5 
+http://ranapk.cf/cdn/play-115/playlist.m3u8
