@@ -378,6 +378,14 @@ https://5c75277727cd1.streamlock.net/dheerantv/dheerantv/chunklist_w1726315551.m
 http://media.7starcloud.com:1935/harimedia/duraistv/chunklist_w1160745097.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Y57v2ZpBFN1JkHv-BXEPUFB7mIPC_au0-vUjVluLdVlfP_288RCJsSCKj6NkmvyEW4A" group-title="Tamil Local Entertainment",Anuman TV
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG32521.png" group-title="Tamil Local Entertainment",TEN TV
+http://hdserver.7starcloud.com:1935/ten/tentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG56436.png" group-title="Tamil Local Entertainment",Namathu Sangamam TV
+http://shinestream.in:1935/namathusangamam/namathusangamam/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG16416.png" group-title="Tamil Local Entertainment",VASANTHAM TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/chunks_dvr.m3u8
+#EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG15109.png" group-title="Tamil Local Entertainment",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",priya tv
 http://live.singamcloud.in:1935/priyatv/priyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anu TV
@@ -386,20 +394,20 @@ http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
 http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Skytv
 http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",PC TV
-http://pctv.livebox.co.in/pctvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/c2V2ZW5zdGFybWVkaWEuc2RtZWRpYV9zY3JlZW5fMl8xNTc4MzM1NzgzXzAzNw/screen-2.jpg?h=355&fakeurl=1&type=.jpg" group-title="Tamil Local Entertainment",SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUSOEjQPIJ8QcwwMk1lEnS-2XeBX0UOFksA&usqp=CAU" group-title="Tamil Local Entertainment",King TV Covai
 https://account26.livebox.co.in/kinghls/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",jeyan tv
-http://stream.singamcloud.in/jeiyantv/jeiyantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/TnrlqFLF0BPpV33eIilM4tMCwpeQBOhv5x9G9lDEJ5S7xWjBBURkgrTMopgIFFE-ZbfWLT2C5w=w1280-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Tamil Local Entertainment",Vannam TV
 http://remoteiptv.in:1935/vannamtv/vannamtv/chunklist_w433499547.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wjpKKPS/1619855252303.png" group-title="Tamil Local Entertainment",Jeyam tv Covai
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5h4G8PdWu5NcewrJ04LxIuPRveEul4w8gtBR-IBWk3LBR3xaqKwWMKFLkeWVvPJvTWx4" group-title="Tamil Local Entertainment",VIP tv
 http://7starcloud.com:1935/harimedia/vip/chunklist_w1837244442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",jeyan tv
+http://stream.singamcloud.in/jeiyantv/jeiyantv/tracks-v1a1/mono.m3u8
 
 
 
@@ -504,6 +512,8 @@ https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in_360p/index.m3u8
 http://ranapk-june3.in1.bitmana.io/livezx.php?c=Win_TV&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG20816.png" group-title="Tamil News",ZEE TAMIL NEWS
 https://d18og6ul8t0hlc.cloudfront.net/out/v1/4489e201207b4e4fbb8d9d9387533001/index_4.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40000.png" group-title="Tamil News",DAN NEWS
+https://askmedia.livebox.co.in/DanNewshls/3.m3u8
 
 
 
