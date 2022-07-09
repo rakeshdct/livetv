@@ -162,14 +162,14 @@ http://media.7starcloud.com:1935/harimedia/yatratv/chunklist_w160276310.m3u8
 http://media.7starcloud.com:1935/harimedia/haritv/chunklist_w2000323752.m3u8 
 #EXTINF:-1 tvg-logo="https://videos.jdmagicbox.com/dharapuram/g4/9999p4258.4258.181217024509.y1g4/video/ac6cfff1bcdfccf4776a27c38a6a17f7_m.jpg" group-title="Tamil Local Entertainment",Singam tv
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1 group-title="Tamil Local Entertainment" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw",JAWAHAR TV
+#EXTINF:-1 group-title="Tamil Local Entertainment" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40848.png",JAWAHAR TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Local Entertainment" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png",ULTRAMAX TAMIL
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:-1 group-title="Tamil Local Entertainment" tvg-logo="",Ashoka TV
+#EXTINF:-1 group-title="Tamil Local Entertainment" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG91933.png",Ashoka TV
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Local Entertainment" tvg-logo="",Kri Tamilan TV
 http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
