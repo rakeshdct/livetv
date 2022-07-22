@@ -2,37 +2,29 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV
 https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/76969
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48012
+http://ranapk.cf/api/REDx.php?id=48012
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/36442
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48014
+http://ranapk.cf/api/REDx.php?id=48014
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/267819
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life1
-http://www.ridx7.1.mywebsites.link/redx.php?id=48021&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48021
+http://ranapk.cf/api/REDx.php?id=48021
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/7f7f01cf9d579e09ecfbe313513df215.jpg" group-title="Tamil Entertainment",Adithya
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157469
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/7f7f01cf9d579e09ecfbe313513df215.jpg" group-title="Tamil Entertainment",Adithya1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=51220
+http://ranapk.cf/api/REDx.php?id=51220
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Vijay TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil Entertainment",Vijay TV1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/19744
+http://ranapk.cf/api/REDx.php?id=48006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Star_Vijay_Super.jpeg/220px-Star_Vijay_Super.jpeg" group-title="Tamil Entertainment",Vijay Super
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48007
+http://ranapk.cf/api/REDx.php?id=48007
 #EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x6581250786368.png" group-title="Tamil Entertainment",Zee Tamil HD
 http://ranapk.cf/ZxRn.php?c=0-9-zeetamil
 #EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" group-title="Tamil Entertainment",Zee Thirai
@@ -41,7 +33,7 @@ http://ranapk.cf/ZxRn.php?c=0-9-224
 http://103.139.171.5:5001/live.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48020
+http://ranapk.cf/api/REDx.php?id=48020
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil Entertainment",Jaya TV HD
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-movies-white.png" group-title="Tamil Entertainment",Jaya Movies
@@ -157,13 +149,13 @@ http://103.139.171.5:5001/live.php?c=History_18_Tamil&q=800&e=.m3u8
 http://103.139.171.5:5001/live.php?c=Animal_Planet_HD_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Tamil Infotainment",Nat Geo HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48016
+http://ranapk.cf/api/REDx.php?id=48016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Tamil Infotainment",Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48009
+http://ranapk.cf/api/REDx.php?id=48009
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/russian/foxlife.png" group-title="Tamil Infotainment",Fox Life HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48019
+http://ranapk.cf/api/REDx.php?id=48019
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Travel_XP_Tamil.jpeg/revision/latest/scale-to-width-down/200?cb=20201008180458" group-title="Tamil Infotainment",Travel XP
 http://103.139.171.5:5001/live.php?c=Travel_XP_Tamil&q=800&e=.m3u8
 
@@ -432,6 +424,9 @@ http://stream.singamcloud.in/jeiyantv/jeiyantv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GsdnjLvbrgTK6Ywcor-5zwhaChJHdESnvlvxtbikWk8OSFLAQtmrV3JB__RqT7ZFBQ" group-title="Tamil Music",Sun Music HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157496
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GsdnjLvbrgTK6Ywcor-5zwhaChJHdESnvlvxtbikWk8OSFLAQtmrV3JB__RqT7ZFBQ" group-title="Tamil Music",Sun Music HD1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48013
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="Tamil Music",7s Music
@@ -473,7 +468,7 @@ http://stream.singamcloud.in/skytv/skytv/index.m3u8
 http://103.139.171.5:5001/live.php?c=Peppers_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star-vijay-music-hk.png" group-title="Tamil Music",Star Vijay Music
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=54818
+http://ranapk.cf/api/REDx.php?id=54818
 
 
 
@@ -493,12 +488,12 @@ http://103.139.171.5:5001/live.php?c=sonic_Tamil&q=800&e=.m3u8
 http://103.139.171.5:5001/live.php?c=Discovery_Kids_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest/scale-to-width-down/250?cb=20190122082451" group-title="Tamil Kids",Chutti TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48147
+http://ranapk.cf/api/REDx.php?id=48147
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest/scale-to-width-down/250?cb=20190122082451" group-title="Tamil Kids",Chutti TV1
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157495
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="Tamil Kids",Hungama TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.m3u8?id=48164
+http://ranapk.cf/api/REDx.php?id=48164
 
 
 
@@ -549,7 +544,7 @@ http://103.139.171.5:5001/live.php?c=Sony_Pix_HD&q=800&e=.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="English Movies",& Flix1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48128
+http://ranapk.cf/api/REDx.php?id=48128
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="English Movies",& Prive
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/45506
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="English Movies",Comedy Central HD
@@ -558,30 +553,30 @@ http://103.139.171.5:5001/live.php?c=Comedy_Central_HD&q=800&e=.m3u8
 http://ranapk.cf/ZxRn.php?c=0-9-zeecafehd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="English Movies",Colors Infinity HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=47880
+http://ranapk.cf/api/REDx.php?id=47880
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwn3PHWPVbqaONdnyn0CtmiEQ5vM6B84hFufTpQlwblELmHWYqy41LCdmkyiGOd-IvIg&usqp=CAU" group-title="English Movies",Star World HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=51266
+http://ranapk.cf/api/REDx.php?id=51266
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwn3PHWPVbqaONdnyn0CtmiEQ5vM6B84hFufTpQlwblELmHWYqy41LCdmkyiGOd-IvIg&usqp=CAU" group-title="English Movies",Star World HD1
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266883
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/11511
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=47859
+http://ranapk.cf/api/REDx.php?id=47859
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXQ-KO1_LwRHWa9gqZ_bWn1IBRxYgCW2zq3gH2rV7N5PsHyhL77gcLwqNNwVtc0jn5jU&usqp=CAU" group-title="English Movies",Star Moives Select HD 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=47861
+http://ranapk.cf/api/REDx.php?id=47861
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png" group-title="English Movies",MOVIES NOW HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/169118
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png" group-title="English Movies",MOVIES NOW HD1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48160
+http://ranapk.cf/api/REDx.php?id=48160
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="English Movies",MN PLUS HD
 http://ranapk-star7.de1.bitmana.io/playx.php?id=48163&e=.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="English Movies",MN PLUS HD1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48163
+http://ranapk.cf/api/REDx.php?id=48163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/MNX_new_logo.png/220px-MNX_new_logo.png" group-title="English Movies",MNX
 http://103.179.246.243:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/UTV_Action_India.png" group-title="English Movies",UTV Action
@@ -623,7 +618,7 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1067
 http://103.139.171.5:5001/live.php?c=Discovery_Turbo&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",Investigation Discovery India
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=1763
+http://ranapk.cf/api/REDx.php?id=1763
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",Investigation Discovery India1
 https://tvstream.fun/jtv/automax_tv.php?c=ID
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment",NASA TV
@@ -650,10 +645,10 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3631
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/62584
 #EXTINF:-1 tvg-logo="https://www.insidesport.in/wp-content/uploads/2017/05/star-sprts-tamil-e1496057710686.png?w=1068&h=0&crop=1" group-title="English Sports",Star Sports Tamil
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48005
+http://ranapk.cf/api/REDx.php?id=48005
 #EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="English Sports",Star Sports Select 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48110
+http://ranapk.cf/api/REDx.php?id=48110
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest/scale-to-width-down/220?cb=20170728104438" group-title="English Sports",Star Sports Select 2
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/16619
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="English Sports",Sky Sports F1 uk
