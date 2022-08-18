@@ -39,11 +39,8 @@ http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest/scale-to-width-down/200?cb=20191225171218",MK TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png",MK TV
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=MK_TV
 #EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg",Vendhar TV
 http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=Vendhar_TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Puthuyugam_TV.gif/220px-Puthuyugam_TV.gif" group-title="Tamil Entertainment",Puthuyugam TV
@@ -53,7 +50,7 @@ https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
 #EXTINF:-1 group-title="Tamil Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg",CAPTAIN TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/DD_Podhigai.png/revision/latest/scale-to-width-down/195?cb=20190725130439" group-title="Tamil Entertainment",DD Podhigai
-https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=DD5_Podhigai
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Tamil Entertainment",Tamilan
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng9O_jP6RX0EcVEzT18GnprkvAcwG4VvtXDCwEO=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil Entertainment",Makkal Tv
