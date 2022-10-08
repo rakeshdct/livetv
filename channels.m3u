@@ -126,7 +126,9 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201911/dtamil-logo.jpg" group-title="Tamil Infotainment",Discovery Tamil HD
-http://137.59.85.66/Content/discoverytamil/Live/Channel(DISCOVERYTAMIL)/index.m3u8
+http://103.147.87.13:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="Tamil Infotainment",NATIONAL GEOGRAPHIC
+http://103.147.87.13:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil Infotainment",SONY BBC EARTH HD
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Sony_BBC_Earth_HD_Tamil&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil Infotainment",HISTORY TV 18 HD
@@ -447,19 +449,23 @@ https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Peppers_TV
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/600?cb=20190401004340" group-title="Tamil Kids",Cartoon Network Tamil
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=CN_HD_Tamil
+http://103.147.87.13:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6f-2Pk79dYSg9dK54rU16k2LoTg8_wDwwRllwMvHuseIzfRRb0RjtBpAfq5I9Aqlqx00&usqp=CAU" group-title="Tamil Kids",Nick Tamil
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Nick_Tamil
+http://103.147.87.13:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png" group-title="Tamil Kids",Nick JR
+http://103.147.87.13:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1528287120_06qKWh_POGO-logo.jpg" group-title="Tamil Kids",Pogo Tamil
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Pogo_Tamil
+http://103.147.87.13:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png/revision/latest/scale-to-width-down/150?cb=20190818013417" group-title="Tamil Kids",Sony Yay Tamil
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Sony_Yay_Tamil
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Tamil Kids",Sonic Tamil
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=sonic_Tamil
+http://103.147.87.13:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DKids2021.png/revision/latest/scale-to-width-down/215?cb=20210413182436" group-title="Tamil Kids",Discovery Kids Tamil
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Discovery_Kids_Tamil
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest/scale-to-width-down/250?cb=20190122082451" group-title="Tamil Kids",Chutti TV1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157495
+http://103.147.87.13:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Tamil Kids",Disney
+http://103.147.87.13:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Tamil Kids",Disney JR
+http://103.147.87.13:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Tamil Kids",Hungama TV
 http://103.147.87.13:8000/play/a00o/index.m3u8
 
@@ -513,19 +519,21 @@ http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-priv%C3%A9hd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="English Movies",Comedy Central HD
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Comedy_Central_HD
 #EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png" group-title="English Movies",Zee Café HD
-http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeecafehd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwn3PHWPVbqaONdnyn0CtmiEQ5vM6B84hFufTpQlwblELmHWYqy41LCdmkyiGOd-IvIg&usqp=CAU" group-title="English Movies",Star World HD
-http://103.147.87.13:8000/play/a003/index.m3u8
+http://103.147.87.13:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="English Movies",Colors Infinity HD
 https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/index.m3u8?hdnts=st=1664859996~exp=1664946396~acl=/*~hmac=7660c544845cd987f94eb5ccade044b3664aa6dd19aa46287bcd434a3b8e447a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/11511
+http://103.147.87.13:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English Movies",Star Movies Select HD
 http://103.147.87.13:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwn3PHWPVbqaONdnyn0CtmiEQ5vM6B84hFufTpQlwblELmHWYqy41LCdmkyiGOd-IvIg&usqp=CAU" group-title="English Movies",Star World HD
+http://103.147.87.13:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/SWPHD.JPG/revision/latest/scale-to-width-down/250?cb=20171104184541" group-title="English Movies",Star World Premiere HD
+http://103.147.87.13:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png" group-title="English Movies",MOVIES NOW HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/169118
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="English Movies",MN PLUS HD
-http://ranapk-star7.de1.bitmana.io/playx.php?id=48163&e=.m3u8
+http://103.147.87.13:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/MNX_new_logo.png/220px-MNX_new_logo.png" group-title="English Movies",MNX
 http://103.179.246.243:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/UTV_Action_India.png" group-title="English Movies",UTV Action
@@ -537,9 +545,13 @@ http://103.179.246.243:8000/play/a01j/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_698/LANDSCAPE_43/yQm3zndr.png" group-title="English Infotainment",Discovery HD World India
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Discovery_HD_World
+http://103.147.87.13:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXt2COPs2wC0GVIkTIhtaTG0gzRitCC7Yf9xsKPgtaPEvaMpH4vcsT2pLpnWUMN4hlJmw&usqp=CAU" group-title="English Infotainment",Discovery Science IN
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Discovery_Science
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="English Infotainment",NATIONAL GEOGRAPHIC
+http://103.147.87.13:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/National_Geographic_Wild_2018_%28HD%29.svg/revision/latest/scale-to-width-down/185?cb=20190712195623" group-title="English Infotainment",NAT GEO WILD HD
+http://103.147.87.13:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="English Infotainment",Animal Planet HD World India
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Animal_Planet_HD
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/english/history1.png" group-title="English Infotainment",HISTORY TV 18 HD
@@ -547,7 +559,7 @@ https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=History_HD
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png" group-title="English Infotainment",SONY BBC EARTH HD
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Sony_BBC_Earth_HD_English
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png" group-title="English Infotainment",TLC WORLD HD
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=TLC_English
+http://103.147.87.13:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="English Infotainment",Discovery Turbo
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Discovery_Turbo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",Investigation Discovery India1
@@ -559,24 +571,24 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="English Sports",Sony Six HD
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Six_HD
+http://103.147.87.13:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="English Sports",Sony Ten 1 HD
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Ten_HD
+http://103.147.87.13:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="English Sports",Sony Ten 2 HD
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Ten2_HD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135" group-title="English Sports",Sony Ten 3 HD
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Ten3_HD
+http://103.147.87.13:8000/play/a00l/index.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="English Sports",Sony Ten 4 HD
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Ten_4_HD_Tamil
+http://103.147.87.13:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="English Sports",Star Sports 1
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Star_Sports_HD_1
+http://103.147.87.13:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="English Sports",Star Sports 2
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Star_Sports_HD_2
+http://103.147.87.13:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="English Sports",Star Sports Select 1
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Star_Sports_Select_HD_1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest/scale-to-width-down/220?cb=20170728104438" group-title="English Sports",Star Sports Select 2
 https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Star_Sports_Select_HD_2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieC0wxaDUgNGQwXP-a3sEkUBOIaMxDyIxVau1DLPBaw3ztgYN22-CjBqechcsPmRehxc&usqp=CAU" group-title="English Sports",Euro Sport
-https://tvstream.fun/jtv/mhd_xworld_tvx.php?c=Dsports_HD
+http://103.147.87.13:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="English Sports",DD Sports
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/56153
