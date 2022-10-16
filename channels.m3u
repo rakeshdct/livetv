@@ -1,10 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV
-https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/master.m3u8?hdnts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/250?cb=20180306135150" group-title="Tamil Entertainment",Sun TV
 http://103.147.87.13:8000/play/a07y/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD
-https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil Entertainment",KTV HD
 http://103.147.87.13:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835" group-title="Tamil Entertainment",Sun Life
@@ -14,11 +10,11 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157469
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" group-title="Tamil Entertainment",Star Vijay HD
 http://ranapk.gq/PLUSxRANAPK/live.php?id=368&q=800
 #EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x6581250786368.png" group-title="Tamil Entertainment",Zee Tamil HD
-http://ranapk.gq/PLUSxRANAPK/live.php?id=167&q=800
+http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeetamil
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Zee_Thirai.jpg" group-title="Tamil Entertainment",Zee Thirai
-http://ranapk.1.mywebsites.link/zee5x/play.php?c=0-9-224
+http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-224
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil Entertainment",Colors Tamil
-http://ranapk.gq/PLUSxRANAPK/live.php?id=429&q=800
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Tamil_HD_voot_MOB/output03/index.m3u8?hdnts=st=1665804958~exp=1665891358~acl=/*~hmac=5b8db873dcac65129849f52be665e32f2966486fb30c00f845447b5161572643
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil Entertainment",Jaya TV HD
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-movies-white.png" group-title="Tamil Entertainment",Jaya Movies
@@ -505,15 +501,15 @@ https://askmedia.livebox.co.in/DanNewshls/3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" group-title="English Movies",Sony Pix HD
 http://ranapk.gq/PLUSxRANAPK/live.php?id=762&q=800
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="English Movies",& Flix
-http://ranapk.1.mywebsites.link/zee5x/play.php?c=0-9-channel_2105335046
+http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="English Movies",& Prive
-http://ranapk.1.mywebsites.link/zee5x/play.php?c=0-9-priv%C3%A9hd
+http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-priv%C3%A9hd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="English Movies",Comedy Central HD
 http://ranapk.gq/PLUSxRANAPK/live.php?id=1327&q=800
 #EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png" group-title="English Movies",Zee Café HD
 http://103.147.87.13:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="English Movies",Colors Infinity HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/index.m3u8?hdnts=st=1664859996~exp=1664946396~acl=/*~hmac=7660c544845cd987f94eb5ccade044b3664aa6dd19aa46287bcd434a3b8e447a
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/index.m3u8?hdnts=st=1665804958~exp=1665891358~acl=/*~hmac=5b8db873dcac65129849f52be665e32f2966486fb30c00f845447b5161572643
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
 http://103.147.87.13:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/StarMoviesSelectHDLogo.jpg/220px-StarMoviesSelectHDLogo.jpg" group-title="English Movies",Star Movies Select HD
