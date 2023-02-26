@@ -69,7 +69,6 @@ http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunk
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Tamil Entertainment",Madhimugam TV
 https://rana-vv.ml/xoos/live.php?id=843&q=800
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Tamil Entertainment",Win TV
@@ -150,6 +149,8 @@ http://bmlive.net:8000/oscarmedianetwork/oscartvhd/bms.m3u8
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",SHAKTHI TV
 http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/trichy/l5/0431px431.x431.160220111532.b9l5/catalogue/n-tv-ponnagar-trichy-entertainment-tv-channels-lca1bk7m53-250.jpg" group-title="Tamil Local Entertainment",N TV
+http://51.79.158.179:1935/ntv/live/chunklist_w1850652856.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0fctUiLUzaAXc2IZUj6E0t5n_1j2yEyOgDx-Vpvywten7S0UP9UJXnJyKtUL8KRrE3U" group-title="Tamil Local Entertainment",Hari tv
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://videos.jdmagicbox.com/dharapuram/g4/9999p4258.4258.181217024509.y1g4/video/ac6cfff1bcdfccf4776a27c38a6a17f7_m.jpg" group-title="Tamil Local Entertainment",Singam tv
@@ -260,6 +261,8 @@ http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
 http://singamcloud.in/rasinetworks/rasiclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Rasi hollywood
 http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZ6dpwdjC0cIHRdrJ-FYWcdtIKllboie2M6KWANDzTFpYg7ESoB9hwyRqiU4Gg0607N0&usqp=CAU" group-title="Tamil Local Entertainment",Rasi Cooking
+http://singamcloud.in/rasinetwork/cookings/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-dheeran-tv-9411.jpg" group-title="Tamil Local Entertainment",Dheeran TV
 https://5c75277727cd1.streamlock.net/dheerantv/dheerantv/chunklist_w1726315551.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Durais TV
@@ -402,9 +405,7 @@ http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GsdnjLvbrgTK6Ywcor-5zwhaChJHdESnvlvxtbikWk8OSFLAQtmrV3JB__RqT7ZFBQ" group-title="Tamil Music",Sun Music HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157496
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GsdnjLvbrgTK6Ywcor-5zwhaChJHdESnvlvxtbikWk8OSFLAQtmrV3JB__RqT7ZFBQ" group-title="Tamil Music",Sun Music HD
-http://103.147.87.13:8000/play/a080/index.m3u8
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNDsenJ0cbxoSBPXxaCSQLrQBfQ6p3aRzwugOPdlmtMlZ1rEzHVmsBHVQB2UP8SJZLwE&usqp=CAU" group-title="Tamil Music",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/58c7782c272d430ee15e556a/1565807035764/f1a4fd44563154567cc7272a459a6e32.png?tx=w_350" group-title="Tamil Music",7s Music
@@ -553,7 +554,8 @@ http://103.179.246.243:8000/play/a01j/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_698/LANDSCAPE_43/yQm3zndr.png" group-title="English Infotainment",Discovery HD World India
 https://rana-pkz.cf/api/starX/play.m3u8?id=47878
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXt2COPs2wC0GVIkTIhtaTG0gzRitCC7Yf9xsKPgtaPEvaMpH4vcsT2pLpnWUMN4hlJmw&usqp=CAU" group-title="English Infotainment",Discovery Science IN
@@ -574,8 +576,7 @@ https://rana-pkz.cf/api/starX/play.m3u8?id=47876
 https://rana-vv.ml/xoos/live.php?id=541&q=800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="English Infotainment",Investigation Discovery India
 https://rana-pkz.cf/api/starX/play.m3u8?id=51277
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
 
 
 
