@@ -8,7 +8,7 @@ https://rana-pkz.ga/sun/play.m3u8?id=26569
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/300x300_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Tamil Entertainment",Adithya
 https://rana-pkz.ga/sun/play.m3u8?id=9023
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" group-title="Tamil Entertainment",Star Vijay HD
-https://rana-pkz.cf/api/starX/play.m3u8?id=48006
+http://23.237.10.66:16054/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil Entertainment",Vijay Super
 https://rana-pkz.cf/api/starX/play.m3u8?id=48007
 #EXTINF:0 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x6581250786368.png" group-title="Tamil Entertainment",Zee Tamil HD
@@ -127,18 +127,14 @@ https://rana-vv.ml/xoos/live.php?id=814&q=800
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cMhY1dy1mj1r6Ybhs01Fppd3C61ZhFO9k1dDJULiOLf0imXcvUgwAUjevjCL4UQvHK5I" group-title="Tamil Local Entertainment",Sana tv
 http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg" group-title="Tamil Local Entertainment",Ram tv
-http://7starcloud.com:1935/harimedia/live5/chunklist_w1090925709.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Devathai TV
 http://singamcloud.in:80/Deavathaitv/Deavathaitv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",ABM Tv
 http://singamcloud.in/abmtv/abmtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Purple
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Abinaya TV
 http://singamcloud.in/purpletv/purpletv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",KONGU TV
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Deepam TV
-http://ss.7starcloud.com:1935/live/deepam/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Jayaam TV
 http://139.99.96.85:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Amman TV
@@ -149,6 +145,48 @@ http://bmlive.net:8000/oscarmedianetwork/oscartvhd/bms.m3u8
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",SHAKTHI TV
 http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",MKP TV
+http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Aaryaa TV
+http://bmlive.net:8000/aaryaatv/aaryaatvlive/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",3Star TV
+http://jaaltv.livebox.co.in:80/3startvhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Abm TV
+http://singamcloud.in:80/abmtv/abmtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",ATN TV
+http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Adhavan colours TV
+http://bmlive.net:8000/amirtharaj/amirtharajlive/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anantha Sangamam TV
+http://anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/CQzBFtt4E94g6XPOLQaK8WK-POT1iy23wMxQaIrvMxAxlwl3ojoJsvhDJvOTNNrEp10c" group-title="Tamil Local Entertainment",Anbu TV
+http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Y57v2ZpBFN1JkHv-BXEPUFB7mIPC_au0-vUjVluLdVlfP_288RCJsSCKj6NkmvyEW4A" group-title="Tamil Local Entertainment",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Annai TV
+http://annaitv.livebox.co.in:80/annailivehls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Arunai TV
+http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Bonus TV
+http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Vasan TV
+http://183.87.51.10:80/hls/vasantv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Bhavani Sangamam TV
+http://7starcloud.com:1935/bhavanitv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Blue Sky TV
+http://7starcloud.com:1935/bluesky/blueskytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",DSR TV
+http://bmlive.net:8000/dsrchannel/dino/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Deepam TV
+http://ss.7starcloud.com:1935/live/deepam/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Sangama Gold TV
+http://7starcloud.com:1935/sangamagold/sangamagold/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Gtv
+http://live.singamcloud.in:80/gtv/gtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Studiogtn TV
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/trichy/l5/0431px431.x431.160220111532.b9l5/catalogue/n-tv-ponnagar-trichy-entertainment-tv-channels-lca1bk7m53-250.jpg" group-title="Tamil Local Entertainment",N TV
 http://51.79.158.179:1935/ntv/live/chunklist_w1850652856.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0fctUiLUzaAXc2IZUj6E0t5n_1j2yEyOgDx-Vpvywten7S0UP9UJXnJyKtUL8KRrE3U" group-title="Tamil Local Entertainment",Hari tv
@@ -247,8 +285,6 @@ http://bmlive.net:8000/gtv/gtv/bms.m3u8
 http://7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Vasanth tvngl
 http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/CQzBFtt4E94g6XPOLQaK8WK-POT1iy23wMxQaIrvMxAxlwl3ojoJsvhDJvOTNNrEp10c" group-title="Tamil Local Entertainment",Anbu TV
-http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kO47zqlb692CkVRIB5U-KNxIU2c82B4sddjh2Fx5laVn4bh54ksTzrgbDnlO-yy9gg&usqp=CAU" group-title="Tamil Local Entertainment",Dan comedy
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Tamil Local Entertainment",Rasi TV
@@ -263,12 +299,14 @@ http://singamcloud.in/rasinetworks/rasiclassic/playlist.m3u8
 http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZ6dpwdjC0cIHRdrJ-FYWcdtIKllboie2M6KWANDzTFpYg7ESoB9hwyRqiU4Gg0607N0&usqp=CAU" group-title="Tamil Local Entertainment",Rasi Cooking
 http://singamcloud.in/rasinetwork/cookings/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg" group-title="Tamil Local Entertainment",Ram tv
+http://7starcloud.com:1935/harimedia/live5/chunklist_w1090925709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",AVINASSH TV
+https://raw.githubusercontent.com/Avinassh2061/avinassh/main/AVINASSH
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-dheeran-tv-9411.jpg" group-title="Tamil Local Entertainment",Dheeran TV
 https://5c75277727cd1.streamlock.net/dheerantv/dheerantv/chunklist_w1726315551.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Durais TV
 http://media.7starcloud.com:1935/harimedia/duraistv/chunklist_w1160745097.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Y57v2ZpBFN1JkHv-BXEPUFB7mIPC_au0-vUjVluLdVlfP_288RCJsSCKj6NkmvyEW4A" group-title="Tamil Local Entertainment",Anuman TV
-http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG56436.png" group-title="Tamil Local Entertainment",Namathu Sangamam TV
 http://shinestream.in:1935/namathusangamam/namathusangamam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/c2V2ZW5zdGFybWVkaWEuc2RtZWRpYV9zY3JlZW5fMl8xNTc4MzM1NzgzXzAzNw/screen-2.jpg?h=355&fakeurl=1&type=.jpg" group-title="Tamil Local Entertainment",SD Media
@@ -291,6 +329,8 @@ http://media.7starcloud.com:1935/harimedia/yatratv/chunklist_w160276310.m3u8
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1 group-title="Tamil Local Entertainment" tvg-logo="https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg",AMMA TV
 http://198.144.149.82:8080/AMMA/AMMACHANNEL/index.m3u8?token=AMMA
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Amma TV
+http://183.87.51.10:80/hls/ammatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tR2yQhf8/Screenshot-2021-04-28-14-36-07-756-org-videolan-vlc-1619601839107.png" group-title="Tamil Local Entertainment",Arasan Tv
 http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CgvOoJ4ewOfDSZi8OHbmkX6Ucxoqjt70abOuxNN1uPh3uvKnvuEhBOoZXjcCCRWOcq3J=s180-rw" group-title="Tamil Local Entertainment",Kanchi tv
@@ -396,8 +436,6 @@ https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b37529050
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",priya tv
 http://live.singamcloud.in:1935/priyatv/priyatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Anu TV
-http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",JM TV
 http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 
