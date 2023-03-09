@@ -77,9 +77,24 @@ https://rana-vv.ml/xoos/live.php?id=970&q=800
 
 
 
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201911/dtamil-logo.jpg" group-title="Tamil Infotainment",Discovery Tamil HD
+http://103.147.87.13:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="Tamil Infotainment",NATIONAL GEOGRAPHIC
+http://103.147.87.13:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil Infotainment",SONY BBC EARTH HD
+https://rana-vv.ml/xoos/live.php?id=853&q=800
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil Infotainment",HISTORY TV 18 HD
+https://rana-vv.ml/xoos/live.php?id=579&q=800
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Tamil Infotainment",Animal Planet HD World India
+https://rana-vv.ml/xoos/live.php?id=1219&q=800
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Travel_XP_Tamil.jpeg/revision/latest/scale-to-width-down/200?cb=20201008180458" group-title="Tamil Infotainment",Travel XP
+https://rana-vv.ml/xoos/live.php?id=814&q=800
+
+
+
 #EXTINF:-1 tvg-logo="https://mediaworldasia.dk/images/channels/tamil/montamiltv.JPG" group-title="Tamil Int Entertainment",Mon tamil tv
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Mass Tv
+#EXTINF:-1 tvg-logo="" group-title="Tamil Int Entertainment",Mass Tv
 http://tv2.massstream.net:80/Masstv/index.m3u8
 #EXTINF:-1 tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png" group-title="Tamil Int Entertainment",GTA Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
@@ -106,23 +121,6 @@ http://45.77.66.224:1935/athavantv/live_360p/chunklist_w305811568.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSN0hgOA5gdELMEegGQOAUOhcdhFoYhXAI82F01wQ=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil Int Entertainment",Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201911/dtamil-logo.jpg" group-title="Tamil Infotainment",Discovery Tamil HD
-http://103.147.87.13:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/250?cb=20171113181251" group-title="Tamil Infotainment",NATIONAL GEOGRAPHIC
-http://103.147.87.13:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sony_BBC_Earth_HD.jpg/revision/latest/scale-to-width-down/100?cb=20190224053452" group-title="Tamil Infotainment",SONY BBC EARTH HD
-https://rana-vv.ml/xoos/live.php?id=853&q=800
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/199?cb=20210515171227" group-title="Tamil Infotainment",HISTORY TV 18 HD
-https://rana-vv.ml/xoos/live.php?id=579&q=800
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Tamil Infotainment",Animal Planet HD World India
-https://rana-vv.ml/xoos/live.php?id=1219&q=800
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Travel_XP_Tamil.jpeg/revision/latest/scale-to-width-down/200?cb=20201008180458" group-title="Tamil Infotainment",Travel XP
-https://rana-vv.ml/xoos/live.php?id=814&q=800
 
 
 
@@ -239,6 +237,159 @@ http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8
 http://msmadhantv.phoenixcreations.online:1935/msmadhantv/msmadhantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Media 24 Tv
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Nila TV
+http://indiamatrix.in:80/nilatv/nilatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Nila TV
+http://131.153.22.8:1935/nilatv/nilalive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",nakkubetta TV
+http://nakkubettatv.livebox.co.in:80/nbtvhls/nbtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Disnesh TV
+http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Om TV
+http://hdserver.7starcloud.com:1935/omtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",PCN TV
+http://103.98.62.134:8080/gtv/gtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",PR TV
+http://bmlive.net:8000/appletv/prtv/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Pink TV
+http://nextgeninfotech.ddns.net:8080/pink/pink.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Queen TV
+http://queentv.phoenixcreations.online:1935/queentv/queentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",R TV
+http://bmlive.net:8000/robertsagayadoss/rtvtrichy/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Raghul TV
+http://server1.phoenixcreations.online:1935/live/raghultv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Rio TV
+http://singamcloud.in:80/riotv/riotv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Reachone TV
+http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",rowthiram TV
+http://web.applelive.in:80/hls/rowthiramtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",royal TV
+http://bmlive.net:8000/dsrchannel/theniroyal/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",S TV
+http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",S TV
+http://bmlive.net:8000/karnan/stvhd/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sakthi TV
+http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sangamam TV
+http://livematrix.in:80/sangamamtv/sangamamtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sar TV
+http://livematrix.in:80/sartv/sartv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sdmedia TV
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",selfie plus TV
+http://nextgeninfotech.ddns.net:8080/selfiemedia/selfiemedia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",senthil TV
+http://nextgeninfotech.ddns.net:8080/senthil/senthil.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sr7 TV
+http://sr7tv.phoenixcreations.online:1935/sr7tv/sr7tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",srv hd TV
+http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",ss TV
+http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Star hd TV
+http://bmlive.net:8000/appletv/startv/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sachin TV
+http://sachintv.phoenixcreations.online:1935/live/sachintv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sanatv2 TV
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",saratha TV
+http://sarathatv.phoenixcreations.online:1935/sarathatv/sarathatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",Saravana TV
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sasi TV
+http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",selfee TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",senthur TV
+http://nextgeninfotech.ddns.net:8080/senthur/senthur.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sharvesh TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",shree TV
+http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sigaram TV
+http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sivan TV
+http://sivantv.livebox.co.in:80/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",amirtharaj TV
+http://bmlive.net:8000/amirtharaj/siva/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",skymedia TV
+http://skymedia.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",smart TV
+http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",subash TV
+http://subashtv.phoenixcreations.online:1935/subashtv/subashtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",sunstar TV
+http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",shalini TV
+http://bmlive.net:8000/Raja/shalinitvtvm/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",7hils TV
+http://139.99.96.93:1935/7hilstv/7hilstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",abm TV
+http://singamcloud.in:80/abmtv/abmtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",aone TV
+http://183.87.51.10:80/hls/aonetv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",atn TV
+http://indiamatrix.in:80/atn/atn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",aadhi TV
+http://media.7starcloud.com:1935/harimedia/aadhitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",AARTHI TV
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",abi TV
+http://shinestream.in:1935/abitv/abitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",ambika TV
+http://bmlive.net:8000/karnan/ambika/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",anandam TV
+http://shinestream.in:1935/anandamtv/tactv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",anandam TV
+http://shinestream.in:1935/anandamtv/svc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",apple TV
+http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",baranimedia TV
+http://nikinfo.in:1935/nikstream/baranimedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",bharathi TV
+http://bmlive.net:8000/karnan/bharathiusilai/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",bms TV
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",csk TV
+http://7starcloud.com:1935/csktv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",channelfive TV
+http://web.applelive.in:80/hls/channelfive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",dharani TV
+http://stream.singamcloud.in:80/dharanitv/dharanitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",eagle TV
+http://183.87.51.10:80/hls/eagletv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",evergreen TV
+http://shinestream.in:1935/evergreen/evergreen/chunklist_w90394648.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",jeevan TV
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",jjseven TV
+http://stream.applelive.in:8000/appletv/jjseven/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",jj TV
+http://jaaltv.livebox.co.in:80/jjtvhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",jpr TV
+http://bmlive.net:8000/Raja/jprtv/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",malar TV
+http://malartv.phoenixcreations.online:1935/live/malartv/chunklist_w490883281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",max TV
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/maxtv123_low/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",mullai TV
+http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",my TV
+http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",phoenix TV
+http://103.88.77.238:8081/phoenix/phoenix.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",queen TV
+http://queentv.phoenixcreations.online:1935/queentv/queentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",rgold TV
+http://bmlive.net:8000/robertsagayadoss/rgold/bms.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local Entertainment",rsilver TV
+http://bmlive.net:8000/robertsagayadoss/rsilver/bms.m3u8
+
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/trichy/l5/0431px431.x431.160220111532.b9l5/catalogue/n-tv-ponnagar-trichy-entertainment-tv-channels-lca1bk7m53-250.jpg" group-title="Tamil Local Entertainment",N TV
 http://7starcloud.com:1935/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0fctUiLUzaAXc2IZUj6E0t5n_1j2yEyOgDx-Vpvywten7S0UP9UJXnJyKtUL8KRrE3U" group-title="Tamil Local Entertainment",Hari tv
